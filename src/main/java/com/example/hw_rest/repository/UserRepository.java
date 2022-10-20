@@ -32,5 +32,4 @@ public class UserRepository {
         userMap.put(name, password);
         authoritiesMap.put(name, list);
     }
-
 }

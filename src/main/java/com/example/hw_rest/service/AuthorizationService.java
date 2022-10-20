@@ -24,7 +24,6 @@ public class AuthorizationService {
         }
         return userAuthorities;
     }
-
     private boolean isEmpty(String str) {
         return str == null || str.isEmpty();
     }

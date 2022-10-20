@@ -1,4 +1,4 @@
-package com.example.hw_rest.exeption.controller;
+package com.example.hw_rest.controller;
 
 import com.example.hw_rest.exeption.*;
 import com.example.hw_rest.service.Authorities;
